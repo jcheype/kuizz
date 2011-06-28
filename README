@@ -1,1 +1,6 @@
-This is a simple Karotz French Kuizz, you can test your knowledge. 
+Challenge your knowledge with this french Karotz Kuizz
+
+In order to package your app juste run:
+    zip kuizz *
+
+and upload it to the karotzLab
